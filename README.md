@@ -4,13 +4,13 @@
 
 *NAME*: PAVITRA ALAVANDI
 
-*INTERN ID*: C
+*INTERN ID*: CT08SWQ
 
 *DOMAIN*: CLOUD COMPUTING
 
 *DURATION*: 4 WEEKS
 
-*MENTOR*: NEELA SANTHOSH
+*MENTOR*: NEELA SANTHOSH Kumar
 
 This repository contains all the tasks and deliverables for the Cloud Computing Internship at CODTECH IT SOLUTIONS PVT.LTD, completed by Chandaluri Pavitra Alavandi (Intern ID: CT08SWQ). The tasks include setting up cloud storage, monitoring cloud applications, designing multi-cloud architectures, and implementing cloud security.
 
